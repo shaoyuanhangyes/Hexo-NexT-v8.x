@@ -1,0 +1,26 @@
+---
+title: Temporary resume in 2020-11
+date: 2020-03-18 19:59:26
+---
+
+### Hi there 👋
+
+<!--
+**shaoyuanhangyes/shaoyuanhangyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+Hi I'm Syh,also called Ruojhen,a developer indending to change world with cyber-tech:
+- 📡 Visiting my own blog website and contact me [here](https://shaoyuanhangyes.github.io)
+- 📩 Send email and ask me anything [here](mailto:shaoyuanhangoutlook@gmail.com)
+- 📓 I'm currently practicing datastructure and algorithm in [LeetCode](https://leetcode-cn.com/)
+- 💻 I'm preparing to participate in postgraduate entrance exam [time](http://shaoyuanhangyes.cn/#when)
